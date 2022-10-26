@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Web Development",
+    "id": 1,
+    "description": "This course is for anyone who wants to learn to understand requirements, define solutions for complex systems, and provide solutions that are scalable, scalable, and strong industrial applications. This course focuses on the modern application engineering methods and principles for approaching the design of flexible buildings required, and the movement of soil everywhere reactive solution can be repaired the benefits of cloud-based, cloud- and distributed, and decentralized architecture models, creating quality solutions and managing software projects. No Of course will introduce a variety of tools, as part of the same production print software. The goal is to have every student participate in the project a complete and useful tool that can be released for global use. This method is a highly interactive process, in which students are expected to participate activities and class discussions. Students will be encouraged to bring their own Communication skills, as many of the topics covered in this course are still available considered as an open research topic. More than 50% of the course will be dedicated to students demonstrations, practical exercises and practical software development in groups project.",
+    "rating": 5,
+    "author": "Sadnan Rashid"
+  },
+  {
+    "title": "Software Development",
+    "id": 2,
+    "description": "Your time is precious and this is important to me, this course has been organized into small lessons that you can consume when you have a few free minutes. They follow each other, making the entire course viewable in a single session. you can rest assured that the project you embark on is the same as the project you deliver. On time and within budget. Acquiring software requirements, meeting deliverables, exceeding expectations and documenting the whole process can take years to learn, these things aren't taught in universities, they are learned in the trenches. So save time, get a scoop on the topics that matter. By the end of the course, you will have amassed a number of key information and several useful template files that together will take your software development skills to the next level. This course is for life, which means you can learn whenever you have the time. You have access to the discussion area, where I will personally answer all your questions about this course. This course is also backed by a 30 day money back guarantee.",
+    "rating": 3,
+    "author": "Aftab Hussain"
+  },
+  {
+    "title": "Artificial Intelligence",
+    "id": 3,
+    "description": "Learn data science and machine learning from scratch, get a contract, and enjoy the most modern and up-to-date data science course on CoursePlus (we use the latest version of Python, Tensorflow 2.0, and other libraries). This course focuses on efficiency - never waste time on confusing, outdated, and incomplete machine learning tutorials again. We're pretty sure this is the most comprehensive and modern course you'll find anywhere on the subject (bold statement, we know). This comprehensive, project-based course will introduce you to all the modern skills of a data scientist, and along the way, we'll create many real projects to add to your portfolio. You will have access to all the code, workbooks and templates (Jupyter Notebooks) on Github, so you can add them to your portfolio right away! We believe this course solves the biggest challenge in entering the field of data science and machine learning: having all the resources you need in one place and learning the latest trends and job skills required by employers. The curriculum will be very practical as we guide you from start to finish to become a professional machine learning and data science engineer. The course covers 2 tracks.",
+    "rating": 4,
+    "author": "Sadnan Rashid"
+  },
+  {
+    "title": "Data Science",
+    "id": 4,
+    "description": "Learn data science and machine learning from scratch, get a contract, and enjoy the most modern and up-to-date data science course on CoursePlus (we use the latest version of Python, Tensorflow 2.0, and other libraries). This course focuses on efficiency - never waste time on confusing, outdated, and incomplete machine learning tutorials again. We're pretty sure this is the most comprehensive and modern course you'll find anywhere on the subject (bold statement, we know). This comprehensive, project-based course will introduce you to all the modern skills of a data scientist, and along the way, we'll create many real projects to add to your portfolio. You will have access to all the code, workbooks and templates (Jupyter Notebooks) on Github, so you can add them to your portfolio right away! We believe this course solves the biggest challenge in entering the field of data science and machine learning: having all the resources you need in one place and learning the latest trends and job skills required by employers. The curriculum will be very practical as we guide you from start to finish to become a professional machine learning and data science engineer. The course covers 2 tracks.",
+    "rating": 5,
+    "author": "Jhon Doe"
+  }
+]
