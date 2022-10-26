@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Web Development",
+    "id": 1,
+    "price": 7999
+  },
+  {
+    "name": "Software Development",
+    "id": 2,
+    "price": 9999
+  },
+  {
+    "name": "Artificial Intelligence",
+    "id": 3,
+    "price": 20000
+  },
+  {
+    "name": "Data Science",
+    "id": 4,
+    "price": 5000
+  },
+  {
+    "name": "Embedded Programming",
+    "id": 5,
+    "price": 12000
+  },
+  {
+    "name": "UI/UX",
+    "id": 6,
+    "price": 1200
+  }
+]
