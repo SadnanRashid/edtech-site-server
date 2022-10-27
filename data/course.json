@@ -5,7 +5,7 @@
     "description": "This course is for anyone who wants to learn to understand requirements, define solutions for complex systems, and provide solutions that are scalable, scalable, and strong industrial applications. This course focuses on the modern application engineering methods and principles for approaching the design of flexible buildings required, and the movement of soil everywhere reactive solution can be repaired the benefits of cloud-based, cloud- and distributed, and decentralized architecture models, creating quality solutions and managing software projects. No Of course will introduce a variety of tools, as part of the same production print software. The goal is to have every student participate in the project a complete and useful tool that can be released for global use. This method is a highly interactive process, in which students are expected to participate activities and class discussions. Students will be encouraged to bring their own Communication skills, as many of the topics covered in this course are still available considered as an open research topic. More than 50% of the course will be dedicated to students demonstrations, practical exercises and practical software development in groups project.",
     "rating": 5,
     "author": "Sadnan Rashid",
-    "author-image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
+    "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
     "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
     "sale": 2134
   },
@@ -15,7 +15,7 @@
     "description": "Your time is precious and this is important to me, this course has been organized into small lessons that you can consume when you have a few free minutes. They follow each other, making the entire course viewable in a single session. you can rest assured that the project you embark on is the same as the project you deliver. On time and within budget. Acquiring software requirements, meeting deliverables, exceeding expectations and documenting the whole process can take years to learn, these things aren't taught in universities, they are learned in the trenches. So save time, get a scoop on the topics that matter. By the end of the course, you will have amassed a number of key information and several useful template files that together will take your software development skills to the next level. This course is for life, which means you can learn whenever you have the time. You have access to the discussion area, where I will personally answer all your questions about this course. This course is also backed by a 30 day money back guarantee.",
     "rating": 3,
     "author": "Aftab Hussain",
-    "author-image": "https://mensline.org.au/wp-content/uploads/2020/05/Excuses-header-1024x683.jpg",
+    "author_image": "https://mensline.org.au/wp-content/uploads/2020/05/Excuses-header-1024x683.jpg",
     "image": "https://miro.medium.com/max/1170/1*8joxOy6-cwNeKGi9OD_Tkw.png",
     "sale": 1534
   },
@@ -25,7 +25,7 @@
     "description": "Learn data science and machine learning from scratch, get a contract, and enjoy the most modern and up-to-date data science course on CoursePlus (we use the latest version of Python, Tensorflow 2.0, and other libraries). This course focuses on efficiency - never waste time on confusing, outdated, and incomplete machine learning tutorials again. We're pretty sure this is the most comprehensive and modern course you'll find anywhere on the subject (bold statement, we know). This comprehensive, project-based course will introduce you to all the modern skills of a data scientist, and along the way, we'll create many real projects to add to your portfolio. You will have access to all the code, workbooks and templates (Jupyter Notebooks) on Github, so you can add them to your portfolio right away! We believe this course solves the biggest challenge in entering the field of data science and machine learning: having all the resources you need in one place and learning the latest trends and job skills required by employers. The curriculum will be very practical as we guide you from start to finish to become a professional machine learning and data science engineer. The course covers 2 tracks.",
     "rating": 4,
     "author": "Sadnan Rashid",
-    "author-image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
+    "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
     "image": "https://i.ytimg.com/vi/sp_OMFCfGMw/maxresdefault.jpg",
     "sale": 2134
   },
@@ -35,7 +35,7 @@
     "description": "This machine learning course will provide you with the fundamentals of how companies like Google, Amazon, and even Udemy use machine learning and artificial intelligence (AI) to derive meaning and information from huge data sets. Both Glassdoor and Indeed report that the median salary for a data scientist is $ 120,000. This is the standard, not the exception. Data scientists are desirable enough. It's hard to keep them staffed in today's tight job market. There is a severe shortage of people with the rare combination of scientific training, computer literacy and analytical talent. Today's data scientists are held to the same standards as the Wall Street quants of the 1980s and 1990s. When the need arose for innovative, physical and mathematical algorithms and approaches to data, they spilled over into databases, investments and hedge funds. So it's no surprise that data science is becoming a promising career path today. It has an analytical, code-driven approach done on a computer. As a result, it should come as no surprise that the demand for data scientists has grown steadily in the workplace over the past few years.",
     "rating": 5,
     "author": "Jhon Doe",
-    "author-image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "author_image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
     "image": "https://miro.medium.com/max/1024/1*6l15igU_z2Uj15SzOGx1Iw.png",
     "sale": 4334
   },
@@ -45,7 +45,7 @@
     "description": "Learning to program embedded systems can be challenging. Since this is a complex field, there is no real gold standard for how to do or teach, which can be frustrating for people who are trying to learn from new things and can't connect the dots. This is the motivation behind creating this course to help engineers and students learn the various aspects of embedded systems by providing high quality training at a low cost. Masters work behind the scenes; I made this course because I believe that your time is valuable and you don't have to try hard to get a hands-on foundation in embedded system programming. In this tutorial, you will learn how to write your driver for commonly used devices such as GPIO, I2C, SPI, USART, etc., and the fun thing is that you will learn everything from scratch. No other libraries! No secrets! Write your own driver API by customizing the MCU's external registers! Code and implement APIs from scratch, immersing yourself in MCU data sheets and manuals. I will explain in detail how to extract the most information from the data sheet, the technical manual to organize and manage the part. You can apply these steps to any MCU you have on hand.",
     "rating": 3,
     "author": "Jhon Doe",
-    "author-image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "author_image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
     "image": "https://cdn.lynda.com/course/748577/748577-636703545474260502-16x9.jpg",
     "sale": 294
   },
@@ -55,7 +55,7 @@
     "description": "Using the latest best practices in web design and mobile design as well as user interface and user experience (UI/UX), this course aims to take you from zero to the point where you can be hired. you or win a free contract. We will use popular tools like Figma to show you the complete process from start to finish. Graduates of Andrei's courses are currently working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook and other technology companies. The system also includes more than 100 premium widgets and templates that you can save and use to organize all your future projects. We promise this is the best art resource online! The program will be very effective as we will guide you from the beginning to the end of your work as a designer, learning how to create the final professional design and when converting them into a good website and it is a tool to use HTML and CSS. We will use this UI UX design tool to create a beautiful user interface with a beautiful style. Most importantly… we will cover customer expectations from you as a new UX designer. This course is for those who are new to design, new to user design. Even if you don't know what UX really means, don't worry. We will start from the beginning and progress step by step.",
     "rating": 5,
     "author": "Sadnan Rashid",
-    "author-image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
+    "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
     "image": "https://cdn.dribbble.com/users/2742725/screenshots/16244904/media/0c20fd815f1209ac4762eb565c7284cb.png?compress=1&resize=400x300",
     "sale": 18234
   }
