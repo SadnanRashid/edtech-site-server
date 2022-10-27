@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Introduction to Embedded Programming",
+    "id": 5,
+    "description": "Learning to program embedded systems can be challenging. Since this is a complex field, there is no real gold standard for how to do or teach, which can be frustrating for people who are trying to learn from new things and can't connect the dots. This is the motivation behind creating this course to help engineers and students learn the various aspects of embedded systems by providing high quality training at a low cost. Masters work behind the scenes; I made this course because I believe that your time is valuable and you don't have to try hard to get a hands-on foundation in embedded system programming. In this tutorial, you will learn how to write your driver for commonly used devices such as GPIO, I2C, SPI, USART, etc., and the fun thing is that you will learn everything from scratch. No other libraries! No secrets! Write your own driver API by customizing the MCU's external registers! Code and implement APIs from scratch, immersing yourself in MCU data sheets and manuals. I will explain in detail how to extract the most information from the data sheet, the technical manual to organize and manage the part. You can apply these steps to any MCU you have on hand.",
+    "rating": 3,
+    "author": "Jhon Doe",
+    "author-image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "image": "https://cdn.lynda.com/course/748577/748577-636703545474260502-16x9.jpg",
+    "sale": 294
+  }
+]
