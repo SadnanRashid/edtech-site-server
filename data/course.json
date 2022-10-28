@@ -7,7 +7,8 @@
     "author": "Sadnan Rashid",
     "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
     "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
-    "sale": 2134
+    "sale": 2134,
+    "price": 7999
   },
   {
     "title": "Advanced Software Development Course",
@@ -17,7 +18,8 @@
     "author": "Aftab Hussain",
     "author_image": "https://mensline.org.au/wp-content/uploads/2020/05/Excuses-header-1024x683.jpg",
     "image": "https://miro.medium.com/max/1170/1*8joxOy6-cwNeKGi9OD_Tkw.png",
-    "sale": 1534
+    "sale": 1534,
+    "price": 9999
   },
   {
     "title": "Artificial Intelligence",
@@ -27,7 +29,8 @@
     "author": "Sadnan Rashid",
     "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
     "image": "https://i.ytimg.com/vi/sp_OMFCfGMw/maxresdefault.jpg",
-    "sale": 2134
+    "sale": 2134,
+    "price": 20000
   },
   {
     "title": "Data Science",
@@ -37,7 +40,8 @@
     "author": "Jhon Doe",
     "author_image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
     "image": "https://miro.medium.com/max/1024/1*6l15igU_z2Uj15SzOGx1Iw.png",
-    "sale": 4334
+    "sale": 4334,
+    "price": 5000
   },
   {
     "title": "Introduction to Embedded Programming",
@@ -47,7 +51,8 @@
     "author": "Jhon Doe",
     "author_image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
     "image": "https://cdn.lynda.com/course/748577/748577-636703545474260502-16x9.jpg",
-    "sale": 294
+    "sale": 294,
+    "price": 12000
   },
   {
     "title": "UI/UX Design",
@@ -57,6 +62,7 @@
     "author": "Sadnan Rashid",
     "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
     "image": "https://cdn.dribbble.com/users/2742725/screenshots/16244904/media/0c20fd815f1209ac4762eb565c7284cb.png?compress=1&resize=400x300",
-    "sale": 18234
+    "sale": 18234,
+    "price": 1200
   }
 ]
